@@ -8,7 +8,7 @@
 }
 /* start header section  */
 #header{
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(./imgs/bg.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(../imgs/bg.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -164,7 +164,7 @@ border-bottom: 2px soild white;
     position: absolute;
     left: -5px;
     bottom: 40px;
-    background-image: url(./imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     /* background-color: red; */
     background-repeat: repeat;
 }
@@ -224,7 +224,7 @@ border-bottom: 2px soild white;
     position: absolute;
     top: 100%;
     left: 42%;
-    background-image: url(./imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     height: 10px;
     width:200px;
 
@@ -265,7 +265,7 @@ border-bottom: 2px soild white;
     position: absolute;
     top: 100%;
     left: 42%;
-    background-image: url(./imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     height: 10px;
     width:200px;
 
@@ -356,7 +356,7 @@ border-bottom: 2px soild white;
     position: absolute;
     top: 100%;
     left: 37%;
-    background-image: url(./imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     height: 10px;
     width:300px;
 
@@ -406,7 +406,7 @@ border-bottom: 2px soild white;
     position: absolute;
     top: 100%;
     left: 42%;
-    background-image: url(./imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     height: 10px;
     width:200px;
 
@@ -487,7 +487,7 @@ border-bottom: 2px soild white;
     position: absolute;
     top: 65%;
     left: 42%;
-    background-image: url(./imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     height: 10px;
     width:200px;
 
